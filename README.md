@@ -141,13 +141,13 @@ xlsxwriter==3.2.0
 ---
 
 ## 👩‍💻 Author
-
-**Your Name** — B.E. Computer Science & IT, 3rd Year  
-[GitHub](https://github.com/YOUR_USERNAME) · 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Khushi Kapadia** — B.E. Computer Science & IT, 3rd Year
+[GitHub](https://github.com/Khushikapadia5125)
 
 ---
 
 ## 📄 License
 
-MIT License — free to use and modify.
+© 2026 Khushi Kapadia. All rights reserved.
+This project is for portfolio/viewing purposes only.
+Copying, modifying, or redistributing is not permitted.
