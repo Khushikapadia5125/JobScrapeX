@@ -1,0 +1,22 @@
+# Data files (too large / personal data — don't commit)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.env
+
+# VS Code settings
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Debug files
+debug_response.html
