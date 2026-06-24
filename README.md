@@ -10,7 +10,7 @@ displays everything on an interactive Streamlit dashboard.
 
 ## 🖥️ Dashboard Preview
 
-![JobScrapeX Dashboard](assets/dashboard.png)
+![JobScrapeX Dashboard](assets/dashboard.jpeg)
 
 ---
 
